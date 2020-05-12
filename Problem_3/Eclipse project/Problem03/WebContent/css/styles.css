@@ -1,0 +1,32 @@
+
+body{
+	background-color: #fff2df;
+	padding: 20px 3px 10px 10px;
+}
+        th, td, p, input {
+            font:14px Verdana;
+        }
+        th{
+        	background-color: rgb(228, 143, 137);
+        }
+        td{
+            background-color: rgb(247, 205, 168);
+        }
+        table, th, td 
+        {
+            border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: left;
+        }
+        th {
+            font-weight:bold;
+        }
+        
+        .error{
+        	color : red;
+        }
+        
+        .ok{
+        	color : green;
+        }
