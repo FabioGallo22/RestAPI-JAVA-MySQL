@@ -1,6 +1,7 @@
 # RestAPI-JAVA-MySQL
 Here are the solutions to three differentes problems from a code challenge. This includes technologies such as Rest API in Java MySQL in a Web APP. The projects were developed in the Eclipse IDE.
 
+
 **** PROBLEM 1 ****
 
 Description
@@ -15,6 +16,7 @@ Example of input file:
     
 Expected result:
     45 + 20 + 5 + 11 + 43.2 = 124.2
+
 
 **** PROBLEM 2 ****
 
@@ -35,6 +37,7 @@ Important notes:
     first run. The program code must use standard ANSI-SQL (not propietary SQL code) to
     perform SQL operations. The connection string, user name and password to connect to
     database must be configurable in an external text file (.properties or .xml ).
+
 
 **** PROBLEM 3 ****
 
