@@ -1,9 +1,8 @@
 # RestAPI-JAVA-MySQL
 Here are the solutions to three differentes problems from a code challenge. This includes technologies such as Rest API in Java MySQL in a Web APP. The projects were developed in the Eclipse IDE.
 
-=============================
-          PROBLEM 1
-=============================
+**** PROBLEM 1 ****
+
 Description
     Make a Java command line program that receives as input a path to a text file. The program should
     parse the content of the file, extract all the numbers (in digits including decimals), add them and
@@ -17,9 +16,8 @@ Example of input file:
 Expected result:
     45 + 20 + 5 + 11 + 43.2 = 124.2
 
-=============================
-          PROBLEM 2
-=============================
+**** PROBLEM 2 ****
+
 Description:
     Enhance the previous program, so that it also saves in a new record of a table using plain JDBC in a
     SQL database (like HyperSQL, ORACLE, MySQL, etc.):
@@ -38,9 +36,8 @@ Important notes:
     perform SQL operations. The connection string, user name and password to connect to
     database must be configurable in an external text file (.properties or .xml ).
 
-=============================
-          PROBLEM 3
-=============================
+**** PROBLEM 3 ****
+
 Descripcion:
     Enhance program of Problem 2, to convert it into a REST API that uses a connection pool to connect to
     the database and exposes 2 verbs, one to upload a file to process and another that returns the
